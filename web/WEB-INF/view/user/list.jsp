@@ -31,7 +31,7 @@
                 </td>
             </tr>
         </c:forEach>
-
+<%----%>
    </table>
 <a href="/user/toadd">添加</a>
 </body>
