@@ -32,7 +32,7 @@
             </tr>
         </c:forEach>
 
-    </table>
-        <a href="/user/toadd">添加</a>
+   </table>
+<a href="/user/toadd">添加</a>
 </body>
 </html>
